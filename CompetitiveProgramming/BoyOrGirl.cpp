@@ -54,6 +54,10 @@ int main(){
 }
 
 
+db pw: yqGMVX8rJMEfervl
+mohammadshafaque26
+mongodb+srv://mohammadshafaque26:yqGMVX8rJMEfervl@simpl.ethvf.mongodb.net/?retryWrites=true&w=majority&appName=simpl
+
 // 340 A
 #include<bits/stdc++.h>
 using namespace std;
@@ -68,3 +72,6 @@ int main(){
     else
     cout<<cnt+1<<endl;
 }
+
+
+I have to build same website that's image is provided. Homepage and its dialogbox for adding/editing different section details is also provided. build same design and everything. use reactjs for frontend with tailwindcss. expressjs for backend with mongodb. give basic auth and same design.
